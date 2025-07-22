@@ -1,0 +1,1 @@
+stm32-st7735S are the files needed for the display. They are already included in the Project.zip. You will find additional help at this link: https://www.youtube.com/watch?v=y5O8JRKy1tI&t=43s  As I edited my code in VS Code, I just copied the right files in my project and added them to the Makefile so I didn't have to use Cube IDE :D
